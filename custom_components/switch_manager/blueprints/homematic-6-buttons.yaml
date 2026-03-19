@@ -18,7 +18,7 @@ buttons:
       - title: hold
         conditions:
           - key: type
-            value: press_long
+            value: press_long_start
   - x: 319
     y: 85
     width: 96
@@ -34,7 +34,7 @@ buttons:
       - title: hold
         conditions:
           - key: type
-            value: press_long
+            value: press_long_start
   - x: 85
     y: 194
     width: 96
@@ -50,7 +50,7 @@ buttons:
       - title: hold
         conditions:
           - key: type
-            value: press_long
+            value: press_long_start
   - x: 319
     y: 194
     width: 96
@@ -66,7 +66,7 @@ buttons:
       - title: hold
         conditions:
           - key: type
-            value: press_long      
+            value: press_long_start      
   - x: 85
     y: 304
     width: 96
@@ -82,7 +82,7 @@ buttons:
       - title: hold
         conditions:
           - key: type
-            value: press_long          
+            value: press_long_start          
   - x: 319
     y: 304
     width: 96
@@ -98,4 +98,4 @@ buttons:
       - title: hold
         conditions:
           - key: type
-            value: press_long
+            value: press_long_start
