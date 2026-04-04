@@ -7,8 +7,7 @@ info: >
   upper (+), center, and lower (-). Each button supports single press,
   double press, hold, and release.
 buttons:
-  - title: "+ Button"
-    actions:
+  - actions:
       - title: press
         conditions:
           - key: action
@@ -25,8 +24,7 @@ buttons:
         conditions:
           - key: action
             value: release_plus
-  - title: Center Button
-    actions:
+  - actions:
       - title: press
         conditions:
           - key: action
@@ -43,8 +41,7 @@ buttons:
         conditions:
           - key: action
             value: release_center
-  - title: "- Button"
-    actions:
+  - actions:
       - title: press
         conditions:
           - key: action
